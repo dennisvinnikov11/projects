@@ -15,6 +15,7 @@ pip install scapy
 ```
 
 ### Usage:
+```
 python3 host_discovery.py <your_pcapfile>
-
+```
 For your convenience I have provided "smtp.pcap" file, if you would like to test this script.
