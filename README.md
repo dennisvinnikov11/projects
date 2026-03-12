@@ -23,9 +23,5 @@ Passively discovers hosts from packet capture files by extracting unique IP addr
 - Traffic inspection
 - Cybersecurity problem solving
 
-## Repository Structure
-- `Great Cannon/`
-- `Host Discovery/`
-
 ## Notes
 Each project directory includes its own README with usage instructions and implementation details.
