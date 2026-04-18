@@ -1,4 +1,4 @@
-# CySA+ Study Notes
+# CySA+ Chapter 2 Study Notes
 March 13, 2026
 ## System and  Network Architecture
 ### Serverless Computing
